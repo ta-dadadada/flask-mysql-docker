@@ -1,0 +1,1 @@
+flask と sqlalchemy と mysql で動くサービスの雛形
